@@ -1,0 +1,74 @@
+Job description
+Roles and Responsibilities
+
+Summary:
+
+1) The candidate will be supporting/Implementing the Production Database of the Payment Sytem applications across all sites and also managing the DBA team at different sites.
+2) Ensure to monitor, track, fix and report the health status of the databases
+3) Automate the various Process for effective functioning of Database
+
+Roles and Responsibilities:
+
+1) Candidate should have strong knowledge on Database having worked as Database Administrator/ Database Manager
+2) Candidate should have experience in trouble shooting GI, Database and performance tuning issues in RAC/Non-RAC
+set up.
+3) Candidate should have good knowledge of Windows and UNIX environments (AIX/RHEL).
+4) Strong Performance tuning experience with a good understanding of database statistics, Locks & Blocking sessions, Explain plan analysis, AWR report analysis, Server resource monitoring etc.
+5) Experience on applying/maintaining GI and Database & DB security patches.
+6) Should be able to create, maintain Dataguard databases, troubleshoot and fix DG issues.
+7) Strong in handling all types of backups, refreshes and recovery procedures.
+8) Good understanding of database partitioning, Golden Gate implementation & maintenance, database security architecture and maintenance.
+9) Responsible for making detailed technical RCA of problems, and taking appropriate remedial actions.
+10) Adding and resizing of ASM disk groups.
+11) Work on issues that couldn’t be resolved by L2 team.
+12) Formulating Backup and Recovery strategies.
+13) Database upgrades/migrations.
+14) Install and configure Oracle enterprise manager Grid control.
+15) Formulating Backup and Recovery strategies
+16) Physical and Logical database designing
+17) Handle RAC databases from a design, implementation, management and technical support perspective.
+19) Take ownership of performance and capacity monitoring aspects of the DB.
+20) Execution of data migration jobs and scripts as required.
+21) Assist the infrastructure team in sizing hardware used for the DB.
+22) Contribute to the creation and maintenance of disaster recovery plans.
+23) Create a reliable backup strategy. Ensure database backups are appropriately
+executed and periodic restorations are exercised to ensure backup quality.
+24) Determine and document DB policies, procedures and standards.
+25) Advance Finetuning concepts in Database
+26) Experience in Handling OLTP Database with Concurrency of more than 200 TPS.
+27) Managing the Database Team in various location and guiding them to Handle the daily operations smoothly.
+28) Security Patching of Database to be handled on time in coordination with the Application Team.
+
+Education:
+
+BE./ B.Tech/M.Tech (Computer Science/IT)
+
+Experience:
+
+1) Candidate should have strong 8+ years of experience as Database Administrator.
+2) Candidate should have good experience on RAC, Database Administration, Dataguard, Golden Gate including open source DB.
+3) Candidate should have good working experience on Windows and any one of the UNIX environments (AIX/RHEL).
+4) Candidate should follows through on all assignments and takes ownership of business issues.
+5) Hands on experience with DB standards and end user applications-translating capacity requirements into infrastructure deployment technology.
+
+Knowledge:
+
+1) Candidate should have strong knowledge of Linux/Unix Internals, Systems/Application backend Design & Architecture- Mandatory
+2) Oracle management tools (Data Guard, RMAN, Data pump). - Mandatory
+3) Oracle Partitioning. - Mandatory
+4) Architecture design principles.
+5) Strong practical experience of ORACLE in a production RAC (ASM) environment (19C).- Mandatory
+6) Must be a self-starter with a strong attention to detail.
+7) Candidate should have Strong analytical, critical thinking, and problem-solving skills. - Mandatory
+
+Technical Skills:
+
+Primary Mandatory Skills:
+Dataguard, RAC, Database Administration, ASM, RMAN, Expdp, Goldengate, scripting languages.
+Secondary Desirable Skills:
+Understanding of Unix Scripts, Open source technologies.
+
+Certifications:
+
+Oracle Certified Professional - Mandatory
+MySQL Database Administrator - Desirable
